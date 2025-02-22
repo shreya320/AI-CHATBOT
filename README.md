@@ -8,6 +8,7 @@ Features
 ✅ Uses a trained deep learning model for predictions.
 ✅ Simple and easy-to-use interface for testing responses.
 
+
 Project Structure
 📂 chatbot.py – Handles chatbot interactions and response generation.
 📂 training.py – Trains the chatbot model using the given dataset.
