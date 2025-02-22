@@ -1,22 +1,24 @@
-AI Chatbot System 🤖
+AI Chatbot 🤖
 Overview
-The AI Chatbot System is a simple conversational chatbot built using Python and deep learning. It processes user queries based on predefined intents and provides appropriate responses, making interactions more efficient and automated.
+The AI Chatbot is an interactive application designed to simulate human-like conversations. Built using JavaScript and AI-powered logic, it can respond to user queries, provide relevant information, and enhance user engagement with a smooth conversational flow.
 
 Features
-✅ Processes and understands user input.
-✅ Generates responses based on predefined intents.
-✅ Uses a trained deep learning model for predictions.
-✅ Simple and easy-to-use interface for testing responses.
+Handles user queries with intelligent responses.
+Processes natural language for realistic interactions.
+User-friendly interface for seamless communication.
+Customizable responses and expandable functionality.
 
 Project Structure
-📂 chatbot.py – Handles chatbot interactions and response generation.
-📂 training.py – Trains the chatbot model using the given dataset.
-📄 intents.json – Contains predefined intents and responses.
-📄 chatbot_model.h5 – Saved trained model for generating responses.
-📄 words.pkl – Stores processed words used in training.
-📄 classes.pkl – Stores classified intent labels.
+src/: Contains the main chatbot logic and scripts.
+UI/: Handles the chatbot's front-end design.
+manifest.mf: Stores metadata about the project.
 
 Technologies Used
-🖥 Python – Core programming language.
-🧠 TensorFlow/Keras – Used for training the chatbot model.
-📄 Natural Language Processing (NLP) – Helps the chatbot understand text input.
+JavaScript: Core programming logic.
+HTML & CSS: Front-end design and styling.
+AI/NLP (if applicable): Enhances chatbot responses.
+
+How to Run
+Open the project in a web browser.
+Ensure JavaScript is enabled.
+Start chatting with the AI chatbot!
